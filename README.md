@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">Front-End Developer from Argentina</h3>
+<h3 align="center">Full Stack Developer from Argentina</h3>
 <img align="center" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47yzx78g29ncgybk9ni2m0iwtb41v6p5maw5k9plyw&rid=giphy.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
