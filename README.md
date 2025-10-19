@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Full Stack Developer from Argentina</h3>
+<h3 align="center">FrontEnd Developer from Argentina</h3>
 
 ###
 
